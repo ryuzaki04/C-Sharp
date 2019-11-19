@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello.deps.json
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello.runtimeconfig.json
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello.dll
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/bin/Debug/netcoreapp3.0/C#SaysHello.pdb
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/obj/Debug/netcoreapp3.0/C#SaysHello.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/obj/Debug/netcoreapp3.0/C#SaysHello.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/obj/Debug/netcoreapp3.0/C#SaysHello.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/obj/Debug/netcoreapp3.0/C#SaysHello.dll
+/Users/ryuzaki/Desktop/git/C-Sharp/C#SaysHello/obj/Debug/netcoreapp3.0/C#SaysHello.pdb
